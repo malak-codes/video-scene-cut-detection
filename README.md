@@ -18,6 +18,7 @@ The core objective of this project is to implement a robust scene cut detection 
 | File | Description |
 | :--- | :--- |
 | `ex1.py` | The main implementation script containing the scene cut detection logic. |
+| `ex1_test.py` | A test script to verify the accuracy of the scene cut detection algorithm. |
 | `README.md` | Documentation providing an overview of the project and its components. |
 | `LICENSE` | MIT License for the project. |
 
