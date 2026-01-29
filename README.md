@@ -49,4 +49,4 @@ print(f"Scene cut detected between frames: {frame_indices}")
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ## Authors
-- Malak Laham
+- Malak
